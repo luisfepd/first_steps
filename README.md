@@ -1,2 +1,2 @@
 # first_steps
-First Steps
+First Steps in vue.js
